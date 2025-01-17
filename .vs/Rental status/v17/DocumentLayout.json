@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shinh\\Downloads\\Rental status-20250107T175724Z-001\\Rental status\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82228D4E-BA59-4CF1-96D4-4095F498D67A}|Rental status\\Rental status.csproj|c:\\users\\shinh\\downloads\\rental status-20250107t175724z-001\\rental status\\rental status\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82228D4E-BA59-4CF1-96D4-4095F498D67A}|Rental status\\Rental status.csproj|solutionrelative:rental status\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82228D4E-BA59-4CF1-96D4-4095F498D67A}|Rental status\\Rental status.csproj|C:\\Users\\shinh\\Downloads\\Rental status-20250107T175724Z-001\\Rental status\\rental status\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82228D4E-BA59-4CF1-96D4-4095F498D67A}|Rental status\\Rental status.csproj|solutionrelative:rental status\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82228D4E-BA59-4CF1-96D4-4095F498D67A}|Rental status\\Rental status.csproj|C:\\Users\\shinh\\Downloads\\Rental status-20250107T175724Z-001\\Rental status\\rental status\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{82228D4E-BA59-4CF1-96D4-4095F498D67A}|Rental status\\Rental status.csproj|solutionrelative:rental status\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82228D4E-BA59-4CF1-96D4-4095F498D67A}|Rental status\\Rental status.csproj|C:\\Users\\shinh\\Downloads\\Rental status-20250107T175724Z-001\\Rental status\\rental status\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82228D4E-BA59-4CF1-96D4-4095F498D67A}|Rental status\\Rental status.csproj|solutionrelative:rental status\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82228D4E-BA59-4CF1-96D4-4095F498D67A}|Rental status\\Rental status.csproj|C:\\Users\\shinh\\Downloads\\Rental status-20250107T175724Z-001\\Rental status\\rental status\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82228D4E-BA59-4CF1-96D4-4095F498D67A}|Rental status\\Rental status.csproj|solutionrelative:rental status\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82228D4E-BA59-4CF1-96D4-4095F498D67A}|Rental status\\Rental status.csproj|C:\\Users\\shinh\\Downloads\\Rental status-20250107T175724Z-001\\Rental status\\rental status\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{82228D4E-BA59-4CF1-96D4-4095F498D67A}|Rental status\\Rental status.csproj|solutionrelative:rental status\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\shinh\\Downloads\\Rental status-20250107T175724Z-001\\Rental status\\Rental status\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "Rental status\\Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\shinh\\Downloads\\Rental status-20250107T175724Z-001\\Rental status\\Rental status\\Form2.Designer.cs",
+              "RelativeToolTip": "Rental status\\Form2.Designer.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T14:53:27.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\shinh\\Downloads\\Rental status-20250107T175724Z-001\\Rental status\\Rental status\\Form2.cs",
+              "RelativeDocumentMoniker": "Rental status\\Form2.cs",
+              "ToolTip": "C:\\Users\\shinh\\Downloads\\Rental status-20250107T175724Z-001\\Rental status\\Rental status\\Form2.cs",
+              "RelativeToolTip": "Rental status\\Form2.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIA0wBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T14:51:59.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\shinh\\Downloads\\Rental status-20250107T175724Z-001\\Rental status\\Rental status\\Form2.cs",
+              "RelativeDocumentMoniker": "Rental status\\Form2.cs",
+              "ToolTip": "C:\\Users\\shinh\\Downloads\\Rental status-20250107T175724Z-001\\Rental status\\Rental status\\Form2.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Rental status\\Form2.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T14:44:06.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\shinh\\Downloads\\Rental status-20250107T175724Z-001\\Rental status\\Rental status\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Rental status\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\shinh\\Downloads\\Rental status-20250107T175724Z-001\\Rental status\\Rental status\\Form1.Designer.cs",
+              "RelativeToolTip": "Rental status\\Form1.Designer.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T13:52:44.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\shinh\\Downloads\\Rental status-20250107T175724Z-001\\Rental status\\Rental status\\Form1.cs",
+              "RelativeDocumentMoniker": "Rental status\\Form1.cs",
+              "ToolTip": "C:\\Users\\shinh\\Downloads\\Rental status-20250107T175724Z-001\\Rental status\\Rental status\\Form1.cs",
+              "RelativeToolTip": "Rental status\\Form1.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAmwOAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T12:53:23.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\shinh\\Downloads\\Rental status-20250107T175724Z-001\\Rental status\\Rental status\\Form1.cs",
+              "RelativeDocumentMoniker": "Rental status\\Form1.cs",
+              "ToolTip": "C:\\Users\\shinh\\Downloads\\Rental status-20250107T175724Z-001\\Rental status\\Rental status\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Rental status\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T12:42:43.014Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
